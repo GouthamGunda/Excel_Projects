@@ -26,5 +26,11 @@ This project is built using Microsoft Excel to manage employee payroll data effi
 - Reduces manual calculation errors
 - Improves payroll efficiency
 
+## 📸 Screenshots
+
+![Dashboard](screenshot1.png)
+![Data](screenshot2.png)
+
+
 ## 👨‍💻 Author
 GUNDA GOUTHAM
