@@ -1,0 +1,8 @@
+This Excel project demonstrates payroll management system.
+
+It includes:
+- Employee salary calculation
+- Use of Excel formulas
+- Structured dataset
+
+This project is created for Data Analyst portfolio.
